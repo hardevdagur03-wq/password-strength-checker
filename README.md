@@ -78,7 +78,7 @@ Medium Password: Add special characters for better security.
 
 ## Author
 
-Your Name
+Hardev Dagur
 
 ## License
 
